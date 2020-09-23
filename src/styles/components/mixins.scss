@@ -1,0 +1,13 @@
+@mixin icon-background {
+  font-family: "Material Icons";
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  height: 1.5rem;
+  width: 1.5rem;
+  background: var(--color-neutral-600);
+  border-radius: 50%;
+  font-size: var(--size-icon-14);
+  color: var(--color-neutral-800);
+  overflow: hidden;
+}
