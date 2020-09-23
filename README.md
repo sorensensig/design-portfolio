@@ -1,4 +1,5 @@
 # portfolio-codebase
+This portfolio is currently under development.
 
 ## Project setup
 ```
